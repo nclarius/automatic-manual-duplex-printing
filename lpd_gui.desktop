@@ -1,0 +1,13 @@
+[Desktop Entry]
+Type=Service
+Icon=document-print
+X-KDE-ServiceTypes=KonqPopupMenu/Plugin
+MimeType=all/allfiles;
+Actions=DuplexPrint;
+Encoding=UTF-8
+InitialPreference=2
+
+[Desktop Action DuplexPrint]
+Name=Duplex Print
+Icon=document-print
+Exec=/home/natalie/Dropbox/Code/Shell/lpd_gui.sh %f
