@@ -8,9 +8,9 @@ Supported printing options are: page range in the form of start - end (not multi
 
 The script comes in a command line version and a simple KDE-based graphical interface version.
 
-![screenshot cli](screenshot_cli.png)
+![screenshot cli](img/screenshot_cli.png)
 
-![screenshot gui](screenshot_gui.png)
+![screenshot gui](img/screenshot_gui.png)
 
 ## Installation
 
@@ -63,7 +63,7 @@ Note that the prompt to turn the pages and the completion message appear as soon
 
 Right-click on the file to be printed > *Actions* > *Duplex Print* > click through the dialogs.
 
-![usage gui](usage_gui.png)
+![usage gui](img/usage_gui.png)
 
 ## Small Print
 
