@@ -39,6 +39,9 @@ The script comes in a command line version and a simple KDE-based graphical inte
 
 ## Usage
 
+Send the print request and wait for the front pages to be printed, then manually turn the paper, and confirm the prompt to proceed with the back pages. Note that the prompt to turn the pages and the completion message appear as soon as the print request has been fully sent, and not when the printer has finished printing.
+
+
 ### Command-line interface
 
 `lpd <F> [<S> <E> <M> <C>]`
@@ -57,7 +60,6 @@ Examples:
 `$ lpd example.pdf 4 10`  (print example.pdf pages 4-10)  
 `$ lpd example.pdf 4 10 2 g` (print example.pdf pages 4-10 with two pages per side in gray scale)
 
-Note that the prompt to turn the pages and the completion message appear as soon as the print request has been fully sent, and not when the printer has finished printing.
 
 ### Graphical interface
 
