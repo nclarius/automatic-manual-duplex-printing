@@ -17,7 +17,7 @@ The script comes in a command line version and a simple KDE-based graphical inte
 ### Command-line interface version
 
 1. Make sure dependencies are installed: `awk`, `grep`, `lp`, `pdfinfo`, `sed`.
-2. Download and unpack the bash file.
+2. Download and unpack `lpd_cli.sh`.
 3. Make it executable: `chmod u+x lpd_cli.sh`
 4. (optional) Add an alias for easy access:
    - Add to `~/.bashrc`: `alias lpd='path-to-the-script/lpd_cli.sh'`.
@@ -25,11 +25,11 @@ The script comes in a command line version and a simple KDE-based graphical inte
 ### Graphical interface version
 
 1. Make sure dependencies are installed: `awk`, `grep`, `lp`, `pdfinfo`, `sed`, `kdialog`.
-2. Download and unpack the bash file.
+2. Download and unpack `lpd_gui.sh`.  
 3. Make it executable: right-click > *Properties* > *Permissions* > *Is executable*.
 4. (optional) Add a context menu entry to the file manager for easy access:
    - In `lpd_gui.desktop`: after `Exec=`: insert `path-to-the-script/lpd_gui.sh %f.`
-   - Add to `~/.local/share/kservices5/ServiceMenus/`: `lpd_gui.desktop`.
+   - Move `lpd_gui.desktop` to `~/.local/share/kservices5/ServiceMenus/`.
 
 ## Configuration
 
