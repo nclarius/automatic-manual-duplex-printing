@@ -39,7 +39,7 @@ The script comes in a command line version and a simple KDE-based graphical inte
 
 ## Usage
 
-Send the print request and wait for the front pages to be printed, then manually turn the paper, and confirm the prompt in order to proceed with the back pages. Note that the prompt to turn the pages and the completion message appear as soon as the print request has been fully sent, and not when the printer has finished printing.
+Send the print request, and when the front pages have completed printing, manually turn the paper, then confirm the prompt in order to proceed with the back pages. Note that the prompt to turn the pages and the completion message appear as soon as the print request has been fully sent, and not when the printer has finished printing.
 
 
 ### Command-line interface
