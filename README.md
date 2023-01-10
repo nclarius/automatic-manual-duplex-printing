@@ -74,9 +74,3 @@ Right-click on the file to be printed > *Actions* > *Duplex Print* > click throu
 This work is licensed under the GNU General Public License v3.0.  
 This program comes with absolutely no warranty.  
 This is free software, and you are welcome to redistribute and/or modify it under certain conditions.  
-
-If you would like to thank me, you can always make me happy with a cup of coffee:  
-<a href="https://www.paypal.com/donate/?hosted_button_id=7LUUJD83BWRM4"><img alt="Donate using PayPal" src="https://github.com/nclarius/nclarius.github.io/blob/main/media/icons/paypal.png" height="30"/><img alt="Donate using PayPal" src="https://github.com/nclarius/nclarius.github.io/blob/main/media/icons/paypal_.png" height="30"/></a>&nbsp;&nbsp;
-<a href="https://liberapay.com/natalie.clarius/donate"><img alt="Donate using Liberapay" src="https://github.com/nclarius/nclarius.github.io/blob/main/media/icons/liberapay_.png" height="30"></a>&nbsp;&nbsp;
-<a href="https://www.buymeacoffee.com/nclarius"><img alt="Donate using BuyMeACoffee" src="https://github.com/nclarius/nclarius.github.io/blob/main/media/icons/buymeacoffee_.png" height="30"/></a>&nbsp;&nbsp;
-<a href="https://www.patreon.com/user?u=74516432"><img alt="Donate using Patreon" src="https://github.com/nclarius/nclarius.github.io/blob/main/media/icons/patreon_.png" height="30"/></a>
